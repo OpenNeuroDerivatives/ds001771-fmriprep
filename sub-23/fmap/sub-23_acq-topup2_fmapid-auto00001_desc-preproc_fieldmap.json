@@ -1,0 +1,16 @@
+{
+  "AnatomicalReference": "sub-23_acq-topup2_fmapid-auto00001_desc-magnitude_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-23_acq-topup2_fmapid-auto00001_desc-coeff0_fieldmap.nii.gz",
+    "sub-23_acq-topup2_fmapid-auto00001_desc-coeff1_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00001",
+  "IntendedFor": [
+    "func/sub-23_task-rest_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds001771-fmriprep/sourcedata/raw/sub-23/fmap/sub-23_acq-topup2_fieldmap.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds001771-fmriprep/sourcedata/raw/sub-23/fmap/sub-23_acq-topup2_magnitude.nii.gz"
+  ],
+  "Units": "Hz"
+}
